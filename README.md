@@ -1,1 +1,1 @@
-Calculating the profit and the betsneeded.
+Calculating the profit and the bets needed.
